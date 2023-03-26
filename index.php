@@ -1,5 +1,5 @@
-<!DOCTYPE php>
-<php style="font-size: 16px;" lang="en"><head>
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <meta name="keywords" content="">
@@ -28,7 +28,7 @@
     <meta property="og:description" content="">
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
-  <body data-home-page="Home..php" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-c1ba"><div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+  <body data-home-page="Home.php" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-c1ba"><div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
@@ -38,27 +38,27 @@
             </a>
           </div>
           <div class="u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home..php" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Disclaimer..php" style="padding: 10px 20px;">Disclaimer</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Privacy..php" style="padding: 10px 20px;">Privacy</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Terms-Of-Service..php" style="padding: 10px 20px;">Terms Of Service</a>
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home.php" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Disclaimer.php" style="padding: 10px 20px;">Disclaimer</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Privacy.php" style="padding: 10px 20px;">Privacy</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Terms-Of-Service.php" style="padding: 10px 20px;">Terms Of Service</a>
 </li></ul>
           </div>
           <div class="u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home..php">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Disclaimer..php">Disclaimer</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Privacy..php">Privacy</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Terms-Of-Service..php">Terms Of Service</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.php">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Disclaimer.php">Disclaimer</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Privacy.php">Privacy</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Terms-Of-Service.php">Terms Of Service</a>
 </li></ul>
               </div>
             </div>
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
-        <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/Capture2.PNG" alt="" data-image-width="219" data-image-height="42">
+        <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/Capture2.PNG" alt="" data-image-width="219" data-image-height="42" data-href="https://vclit.com/fGNTdS">
       </div></header>
     <section class="u-clearfix u-section-1" id="sec-d584">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
@@ -67,7 +67,9 @@
             <div class="u-layout-row">
               <div class="u-align-center u-container-style u-layout-cell u-size-34 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
-                  <h1 class="u-text u-text-custom-color-1 u-text-default u-text-1">QUIETUM PLUS</h1>
+                  <h1 class="u-text u-text-custom-color-1 u-text-default u-text-1">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://vclit.com/fGNTdS">QUIETUM PLUS</a>
+                  </h1>
                   <h2 class="u-text u-text-default u-text-2"> ORDER AND SAVE UPTO 594$! </h2>
                   <p class="u-text u-text-default u-text-3">
                     <span style="font-weight: 700;"> Your order today is protected by my iron-clad <span style="font-weight: 700;">100% money-back guarantee.</span>
@@ -85,15 +87,15 @@ to finally unwind. <br>
                     <br>
                     <br>We are so confident <span style="font-weight: 700;">you'll enjoy life-changing results</span> that we're prepared to back up the Quietum Plus with a <span style="font-weight: 700;">100% Satisfaction Guarantee</span> for the next 60 days.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
                   </p>
-                  <a href="https://vclit.com/fGNTdS"class="u-border-2 u-border-black u-btn u-button-style u-custom-color-1 u-hover-black u-text-body-alt-color u-text-hover-white u-btn-1">YES, GIVE ME MY DISCOUNT LINK!<br>
+                  <a href="https://vclit.com/fGNTdS" class="u-border-2 u-border-black u-btn u-button-style u-custom-color-1 u-hover-black u-text-body-alt-color u-text-hover-white u-btn-2">YES, GIVE ME MY DISCOUNT LINK!<br>
                   </a>
-                  <a href="https://vclit.com/fGNTdS"class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-custom-color-1 u-btn-2">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+                  <a href="https://vclit.com/fGNTdS" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-custom-color-1 u-btn-3">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
                   </a>
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-size-26 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
-                  <img class="u-image u-image-default u-image-1" src="images/Capture1.PNG" alt="" data-image-width="328" data-image-height="596">
+                  <img class="u-image u-image-default u-image-1" src="images/Capture1.PNG" alt="" data-image-width="328" data-image-height="596" data-href="https://vclit.com/fGNTdS">
                 </div>
               </div>
             </div>
@@ -107,7 +109,7 @@ to finally unwind. <br>
       </div>
     </section>
     <section class="u-clearfix u-valign-middle-xs u-section-3" id="sec-aa81">
-      <img class="u-image u-image-contain u-image-default u-image-1" src="images/112.PNG" alt="" data-image-width="1073" data-image-height="812">
+      <img class="u-image u-image-contain u-image-default u-image-1" src="images/112.PNG" alt="" data-image-width="1073" data-image-height="812" data-href="https://vclit.com/fGNTdS">
     </section>
     <section class="u-clearfix u-custom-color-1 u-section-4" id="carousel_3f17">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
@@ -150,7 +152,7 @@ to finally unwind. <br>
     <section class="u-clearfix u-custom-color-1 u-section-6" id="carousel_8495">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-default-xl u-text-1"> 96% OF CUSTOMERS ORDER 6 BOTTLES! *Our Recommended Option</h1>
-        <a href="https://vclit.com/fGNTdS"class="u-border-2 u-border-active-black u-border-black u-border-hover-black u-btn u-button-style u-custom-color-1 u-hover-white u-text-hover-black u-btn-1">YES, GIVE ME MY DISCOUNT LINK!<br>
+        <a href="https://vclit.com/fGNTdS" class="u-border-2 u-border-active-black u-border-black u-border-hover-black u-btn u-button-style u-custom-color-1 u-hover-white u-text-hover-black u-btn-1">YES, GIVE ME MY DISCOUNT LINK!<br>
         </a>
       </div>
     </section>
@@ -332,13 +334,13 @@ olacoides (“muirapuama”) in mice brain. Phytomedicine. 2007 Nov
 5;14(11):763-9. doi: 10.1016/j.phymed.2006.12.007.<br> Specktor B. Why do humans hear so well? you can thank the tiny 
 'jell-o' Violin inside your ear [Internet]. LiveScience. Purch; 2019 
 [cited 2022Oct24]. Available from: 
-https://www.livescience.com/64781-jello-membrane-tunes-your-ear..php.<br> Sun T, Powers JR, Tang J. Evaluation of the antioxidant activity of 
+https://www.livescience.com/64781-jello-membrane-tunes-your-ear.php.<br> Sun T, Powers JR, Tang J. Evaluation of the antioxidant activity of 
 asparagus, broccoli and their juices. Food chemistry. 2007 Jan 
 1;105(1):101-106. doi: 10.1016/j.foodchem.2007.03.048.<br> Swinbourne C. Noises in the deaf of night [Internet]. BBC News. 
 BBC; 2008 [cited 2022Oct24]. Available from: 
-https://www.bbc.co.uk/ouch/features/noises-in-the-deaf-of-night.s.php.<br> The Telegraph. Relaxed people 'heal twice as quickly' [Internet]. 
+https://www.bbc.co.uk/ouch/features/noises-in-the-deaf-of-night.shtml.<br> The Telegraph. Relaxed people 'heal twice as quickly' [Internet]. 
 Telegraph Media Group; 2010 [cited 2022Oct24]. Available from: 
-https://www.telegraph.co.uk/news/science/science-news/7814571/Relaxed-people-heal-twice-as-quickly..php.<br> Wattanathorn J, Jittiwat J, Tongun T, Muchimapura S, Ingkaninan K. 
+https://www.telegraph.co.uk/news/science/science-news/7814571/Relaxed-people-heal-twice-as-quickly.php.<br> Wattanathorn J, Jittiwat J, Tongun T, Muchimapura S, Ingkaninan K. 
 Zingiber officinale mitigates brain damage and improves memory 
 impairment in focal cerebral ischemic rat. Evidence-Based Complementary 
 and Alternative Medicine. 2010;2011. doi: 10.1155/2011/429505.<br> Kumar D, Bhat ZA, Kumar V, Shah MY. Coumarins from Angelica 
@@ -362,4 +364,4 @@ Impaired Rats. Journal of Audiology and Speech Pathology. 1998.&nbsp; &nbsp; &nb
       </a>. 
     </section>
   
-</body></php>
+</body></html>
